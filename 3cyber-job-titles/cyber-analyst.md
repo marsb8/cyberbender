@@ -85,7 +85,6 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 
 ---
 
-## 📚 Technical Write-ups & Blogs  
 
 ### 🔍 Security Analysis  
 - [Log Analysis 101 – From Events to Incidents](#)  
@@ -122,8 +121,8 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 
 ## 🏆 Achievements  
 
-- 🥇 TryHackMe: Completed SOC Level 1 Path  
-- 🏅 National Cyber League (NCL): Top 10% Scorer  
+- 🥇 Completed AWS Cloud Courses  
+- 🏅 Competed in DoD Cyber Sentinel Skills Challenge 
 - 🎓 Completed Cybersecurity Fellowship / Bootcamp  
 - 🧠 Created personal **Home SOC Lab** for continuous learning  
 
@@ -138,19 +137,15 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 - SOC Analyst Tier 2 Techniques  
 
 **Recent Courses:**  
-- Google Cybersecurity Professional Certificate  
- 
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
 ---
 
 ## 🚷 Contact & Links  
 
-📧 **Email:** [<youremail>@gmail.com](mailto:<youremail>@gmail.com)  
+📧 **Email:** [bryantmarshae8@gmail.com](mailto:<youremail>@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/<yourlinkedin>](https://linkedin.com/in/<yourlinkedin>)  
 💻 **GitHub:** [github.com/<yourgithub>](https://github.com/<yourgithub>)  
-🔐 **TryHackMe:** [tryhackme.com/p/<yourtryhackme>](https://tryhackme.com/p/<yourtryhackme>)  
-🧩 **HackTheBox:** [hackthebox.com/home/users/profile/<yourid>](https://hackthebox.com/home/users/profile/<yourid>)  
-
 ---
 
 ## 🗾 Disclaimer  

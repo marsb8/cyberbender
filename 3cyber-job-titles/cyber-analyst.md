@@ -34,13 +34,13 @@ My goal is to **strengthen organizational resilience** through proactive monitor
 - Cloud Security Monitoring (AWS GuardDuty / Security Hub)  
 
 **Certifications**  
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red) ![Network+](https://img.shields.io/badge/CompTIA-Network+-orange) ![A+](https://img.shields.io/badge/CompTIA-A+-blue) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-black) ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-red) ![Network+](https://img.shields.io/badge/CompTIA-Network+-orange) ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-black)
 
 ---
 
 ## 🎯 Featured Projects  
 
-### 1. [**SOC Threat Detection Lab**](soc-threat-detection.md)
+### 1. CyberBenders Security Simulation
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection  
 
 Built a **Splunk-based SIEM** to monitor Windows and network logs for malicious activity.  
@@ -55,7 +55,7 @@ Created detection rules for brute-force and beaconing behavior mapped to **MITRE
 
 ---
 
-### 2. [**Enterprise Network Security Lab**](ent-network-sec.md)
+### 2. CyberSecurity Virtual Machine Home Lab
 **Skills:** Network Segmentation, Firewall Configuration, IDS/IPS, VPN Setup  
 
 Deployed a **multi-segment network** secured by pfSense and Suricata to simulate enterprise traffic and IDS detections.  
@@ -139,8 +139,7 @@ Analyzed logs, extracted indicators, and created a post-incident report.
 
 **Recent Courses:**  
 - Google Cybersecurity Professional Certificate  
-- SANS SEC401 – Security Essentials  
-- TryHackMe Blue Team Path  
+ 
 
 ---
 

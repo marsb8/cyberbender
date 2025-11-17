@@ -1,11 +1,9 @@
 # 🛡️ Marshae Bryant
 ## 👩‍💻 CYBERSECURITY ANALYST | Threat Detection | Incident Response | Network Defense
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/<yourlinkedin>)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/<yourgithub>)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red)](https://tryhackme.com/p/<yourtryhackme>)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-green)](https://hackthebox.com/home/users/profile/<yourid>)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:<youremail>@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/marshae-bryant/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black)](https://github.com/marsb8)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-orange)](mailto:bryantmarshae8@gmail.com)
 
 ---
 
